@@ -1,0 +1,89 @@
+
+
+
+{
+  "menu": [
+    {
+      "name": "Memoria USB",
+      "url": "#",
+      "submenu": [
+        {
+          "name": "Marca A",
+          "url": "#",
+          "submenu": [
+            {
+              "name": "Modelo 1",
+              "url": "#"
+            },
+            {
+              "name": "Modelo 2",
+              "url": "#"
+            }
+          ]
+        },
+        {
+          "name": "Marca B",
+          "url": "#",
+          "submenu": [
+            {
+              "name": "Modelo 3",
+              "url": "#"
+            },
+            {
+              "name": "Modelo 4",
+              "url": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Memoria RAM",
+      "url": "#",
+      "submenu": [
+        {
+          "name": "DDR3",
+          "url": "#"
+        },
+        {
+          "name": "DDR4",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Laptop",
+      "url": "#",
+      "submenu": [
+        {
+          "name": "Marca X",
+          "url": "#",
+          "submenu": [
+            {
+              "name": "Modelo 5",
+              "url": "#"
+            },
+            {
+              "name": "Modelo 6",
+              "url": "#"
+            }
+          ]
+        },
+        {
+          "name": "Marca Y",
+          "url": "#",
+          "submenu": [
+            {
+              "name": "Modelo 7",
+              "url": "#"
+            },
+            {
+              "name": "Modelo 8",
+              "url": "#"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
